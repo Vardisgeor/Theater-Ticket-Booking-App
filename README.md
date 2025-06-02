@@ -1,6 +1,6 @@
 # Theater Ticket Booking App 🎭
 
-The project involves the iterative design and development of a theater ticket booking application that supports interaction through both graphical interfaces and natural language dialogs.
+The project involves the iterative design and development of a theater ticket booking application for smartphones, featuring a chatbot that enables users to communicate with the theater’s box office through natural language dialogs in Greek or English. This chatbot supports querying performance information, booking and canceling tickets, and includes error handling mechanisms such as confirmation prompts and fallback to staff intervention. The development of the chatbot demonstrates the application of data science and natural language processing techniques to create an intelligent and user-friendly interaction system.
 
 ## 🎓 Author
 
