@@ -33,6 +33,8 @@ The final Android application allows users to:
 
 ## 🤖 ChatBot Notebook
 
+This Jupyter notebook implements a conversational theater booking chatbot using Hugging Face's zero-shot classification model (DeBERTa-v3) for intent detection. It handles multi-step user interactions for selecting plays, halls, showtimes, tickets, and seats, manages bookings with availability checks, and includes email delivery for confirmed tickets via SMTP.
+
 👉 [Download chatbot.ipynb](https://www.dropbox.com/scl/fi/45wxxfuppvocz0je51u54/chatbot.ipynb?rlkey=19b6agd47f878atphh4n5w49a&st=idxsaur5&dl=0)
 
 ---
