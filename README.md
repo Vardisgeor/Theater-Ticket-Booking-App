@@ -64,7 +64,3 @@ The final Android application allows users to:
 
 ---
 
-## 📂 Repository Structure
-
-See folders like `chatbot/`, `android-app/`, `prototypes/`, and `evaluations/` for all project materials.
-# Theater-Ticket-Booking-App
