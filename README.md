@@ -4,7 +4,8 @@ The project involves the iterative design and development of a theater ticket bo
 
 ## 🎓 Author
 
-- Vardis Georgilas 
+- Vardis Georgilas
+- Cristos Moutselos
 
 ---
 
